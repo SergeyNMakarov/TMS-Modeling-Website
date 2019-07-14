@@ -1,0 +1,11 @@
+# basic options
+title: TMS Modeling toolbox
+#author: xyz
+email: SMAKAROV@mgh.harvard.edu
+description: Download our software
+#twitter_username: __
+#github_username:  __
+
+# Build settings
+markdown: kramdown
+theme: minima
