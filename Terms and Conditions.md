@@ -1,3 +1,7 @@
+---
+layout: page
+title: Terms and Conditions
+---
 
 End user license agreement [version / date]
 
