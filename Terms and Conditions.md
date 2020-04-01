@@ -16,7 +16,7 @@ End user license agreement [version / date]
 *Van Essen DC et al. E. The Human Connectome Project: A data acquisition perspective. NeuroImage. 2012; 62(4):2222–2231. doi: 10.1016/j.neuroimage.2012.02.018. PMID: 22366334. Online: https://db.humanconnectome.org 
 
 5)	Citations: If using this toolbox in academic research, the following articles are to be cited in the published articles and presentations:
-a.	Makarov et al 2020 J. Neural Eng. https://doi.org/10.1088/1741-2552/ab85b3
 
+Makarov et al 2020 J. Neural Eng. https://doi.org/10.1088/1741-2552/ab85b3
 
 6)	Updates: The authors reserve the right to update the software and the license agreement without further notice. Updating to a new software version implicates that the end user is agreeing to the updated license agreement that will be included as a part of the distribution package.
