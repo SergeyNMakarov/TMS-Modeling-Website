@@ -4,6 +4,6 @@ title: Suggested Citation
 ---
 
 
-As a reference citation, please use:
+As a reference citation, please use the article at the following location:
 
-Makarov et al 2020 J. Neural Eng. https://doi.org/10.1088/1741-2552/ab85b3
+https://pubmed.ncbi.nlm.nih.gov/32235065/
